@@ -1,7 +1,16 @@
 # fidimag-help
 (Best effort) Support for fidimag
 
-:sparkles: Need some help or have some questions? Please [open an issue here](https://github.com/computationalmodelling/fidimag-help/issues). :sparkles:
+# UPDATE (Oct 2023) ⚠️
+To avoid duplication, this Github repository will be deprecated in favour of the new Discussions feature of Github. To raise any questions please refer now to the official Fidimag forum:
+
+https://github.com/computationalmodelling/fidimag/discussions
+
+
+---
+
+
+
 
 ## Please ask
 
